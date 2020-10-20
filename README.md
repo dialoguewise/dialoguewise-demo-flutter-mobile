@@ -47,3 +47,10 @@ That’s it! You now have your content in the response variable and you just nee
 <br/>
 
 <img src="https://github.com/dialoguewise/dialoguewise-demo-flutter-mobile/blob/master/screenshot/flutter-mobile-app.png?raw=true" height="300"> 
+
+## Tutorial
+
+Check out our Youtube video for a step by step instructions on how to integrate Dialogue Wise.
+
+
+[![Headless CMS for Flutter](https://img.youtube.com/vi/IjNN4qpC38w/0.jpg)](https://www.youtube.com/embed/IjNN4qpC38w?rel=0)
